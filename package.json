@@ -1,0 +1,33 @@
+{
+  "name": "google-auth-companion",
+  "version": "1.0.0",
+  "description": "Google authentication for One tap and SSO Button.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "SSO for web",
+    "Typescript google authentication",
+    "Google one tap",
+    "auth",
+    "authentication",
+    "identity",
+    "google identity"
+  ],
+  "author": {
+    "email": "sanjib0248@gmail.com",
+    "name": "Sanjib Kumar Mandal",
+    "url": "https://github.com/sanjib-kumar-mandal"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sanjib-kumar-mandal/google-identity-authentication.git"
+  }
+}
