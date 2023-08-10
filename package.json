@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sanjib-kumar-mandal/google-identity-authentication.git"
+    "url": "https://github.com/sanjib-kumar-mandal/google-auth-companion"
   }
 }
